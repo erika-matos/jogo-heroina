@@ -14,7 +14,8 @@ Neste projeto é criada uma classe que representa uma heroína de uma aventura, 
 
 1 - Tenha o Node.js instalado
 2 - Abra o terminal na pasta do projeto
-3 - Execute o comando:
+3 - Execute o comando: node index.js
+
 
 ## ✨ Observação
 
